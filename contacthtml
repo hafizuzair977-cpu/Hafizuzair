@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Hafiz Uzair SEO Website</title>
+    <meta name="description" content="Get in touch with Hafiz Uzair regarding SEO practice and web development.">
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; padding: 20px; }
+        header { background: #dc3545; color: white; padding: 15px; text-align: center; border-radius: 5px; }
+        nav { margin: 15px 0; background: #ddd; padding: 10px; text-align: center; }
+        nav a { margin: 0 15px; text-decoration: none; color: #dc3545; font-weight: bold; font-size: 18px; }
+        main { background: white; padding: 25px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        footer { text-align: center; margin-top: 20px; color: #777; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <main>
+        <h2>Get in Touch</h2>
+        <p>If you have any questions about SEO crawling, indexing, or web design practice, feel free to reach out. This page completes our 3-page practice website structure.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Hafiz Uzair. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
